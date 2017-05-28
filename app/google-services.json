@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "648402888538",
+    "firebase_url": "https://souffleur-6707c.firebaseio.com",
+    "project_id": "souffleur-6707c",
+    "storage_bucket": "souffleur-6707c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648402888538:android:a29e407e6844f3d5",
+        "android_client_info": {
+          "package_name": "hack.knhash.souffleur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648402888538-v5nilr3rc5ccquvrs0d2s63h4o46tfcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hack.knhash.souffleur",
+            "certificate_hash": "927E9B25CA89F623C77B307D1C53BD0D6E623B2B"
+          }
+        },
+        {
+          "client_id": "648402888538-lji3p8r3b0hk77323947jnud74e191s6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hack.knhash.souffleur",
+            "certificate_hash": "1D2353AB55452926D81DFB85417963B9E9CFCD85"
+          }
+        },
+        {
+          "client_id": "648402888538-f8nvvbvtlvnoaj7bb2o8ovn2dm58thn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9uw-SS30ABo56kkrjbD1KHbhMOOfHLqg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648402888538-f8nvvbvtlvnoaj7bb2o8ovn2dm58thn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
